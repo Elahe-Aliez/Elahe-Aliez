@@ -37,6 +37,7 @@ Currently completing my **M.Sc. in AI Engineering** at the University of Passau 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic/Claude](https://img.shields.io/badge/Claude%20API-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
@@ -123,11 +124,11 @@ Thesis: *Evaluating Grading Behavior & Bias in Large Language Models* — automa
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elahe-Aliez&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/Elahe-Aliez)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elahe-Aliez&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true)](https://github.com/Elahe-Aliez)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Elahe-Aliez&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Elahe-Aliez&theme=react-dark&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&hide_border=true" width="80%" alt="Activity Graph" />
 
 </div>
 
