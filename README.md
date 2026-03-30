@@ -24,11 +24,12 @@ Currently completing my **M.Sc. in AI Engineering** at the University of Passau 
 
 ```python
 elahe = {
-    "focus":        ["Automation Engineering", "AI/LLM Pipelines", "Developer Tooling", "CI/CD"],
-    "currently":    "M.Sc. AI Engineering thesis — LLM evaluation & bias benchmarking",
-    "languages":    ["Python 🐍", "JavaScript", "TypeScript", "PHP"],
-    "ask_me_about": ["LLM evaluation", "FastAPI", "data pipelines", "automation frameworks"],
-    "fun_fact":     "I build systems that test other AI systems 🤖"
+  "role":    "Software Engineer & AI Specialist",
+  "focus":   ["LLM Pipelines", "Automation", "Developer Tooling"],
+  "stack":   ["Python", "FastAPI", "PyTorch", "Docker", "SQL"],
+  "thesis":  "LLM evaluation & bias benchmarking @ Uni Passau",
+  "ask_me":  ["LLM eval", "data pipelines", "automation design"],
+  "fact":    "I build systems that test other AI systems 🤖"
 }
 ```
 
