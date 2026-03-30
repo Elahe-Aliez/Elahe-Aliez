@@ -18,7 +18,7 @@
 
 I'm a **Software Engineer & AI Specialist** with **5+ years of professional experience** building automation systems, data pipelines, and developer-facing tooling in production environments.
 
-I build systems that make other engineers faster and more effective — combining deep Python engineering with modern AI/LLM expertise to push the boundaries of what workflow automation can mean in practice.
+I build systems that make other engineers faster and more effective, combining full-stack engineering with modern AI/LLM expertise to push the boundaries of what workflow automation can mean in practice.
 
 Currently completing my **M.Sc. in AI Engineering** at the University of Passau 🇩🇪, with a thesis focused on automated LLM evaluation pipelines and statistical model behaviour testing at scale.
 
@@ -67,28 +67,46 @@ Currently completing my **M.Sc. in AI Engineering** at the University of Passau 
 ### Automation Engineer & AI Systems Developer
 **DeepWrite Project — University of Passau, Germany** &nbsp;`Jun 2022 – Nov 2025`
 
-- Built **end-to-end LLM automation frameworks** from prompt engineering through output validation and quality monitoring
-- Implemented **FastAPI data pipelines** integrating multiple external services via REST APIs with robust error handling & retry logic
-- Developed **AI-driven agents** that replaced manual evaluation workflows, measurably improving consistency and throughput
-- Resolved performance bottlenecks across the full automation stack by refactoring queries and optimising API flows
+- Designed and built end-to-end automation frameworks integrating AI and LLM-driven components , architecting the
+pipeline from prompt engineering and API integration through automated output validation, structured data storage,
+and continuous quality monitoring across a live production system.
+- Implemented automated data pipeline workflows using Python and FastAPI, integrating multiple external services via
+REST APIs with clean contracts, robust validation, and production-grade error handling and retry logic.
+- Developed AI-driven agents that automated previously manual evaluation and processing workflows end-to-end, reducing
+human effort and measurably improving consistency and throughput for engineering and academic users.
+- Applied LLM and GenAI approaches to automate document processing and structured content extraction, evaluating
+model outputs systematically and iterating on pipeline design based on quality and performance data.
+- Maintained version-controlled codebases in Git across the full development lifecycle, enforcing clean integration practices
+and contributing to code review, documentation, and shared engineering standards within the team.
+- Identified and resolved performance bottlenecks across the automation stack , refactoring database queries, optimising
+API integration flows, and removing redundant processing to measurably improve end-to-end pipeline throughput.
 
 ---
 
 ### Technical Project Lead & QA Engineering Owner
 **Dornica Company, Iran** &nbsp;`Jul 2020 – Oct 2021`
 
-- Owned **end-to-end software QA**: structured test plans, regression testing, and systematic edge-case analysis
-- Automated repetitive engineering workflows across development and deployment, improving delivery reliability
-- Tracked production KPIs via **SQL-based monitoring** and drove data-informed improvements to system reliability
+- Owned software quality assurance end-to-end: designed and executed structured test plans, conducted regression and
+edge-case coverage, and systematically identified and documented failure modes , applying engineering rigour to quality
+processes across multiple product areas.
+- Drove automation of repetitive engineering workflows across development and deployment processes, reducing manual
+steps and improving delivery reliability and team velocity.
+- Tracked and analysed production system behaviour through SQL-based KPI monitoring, identifying performance issues
+early and driving data-informed improvements to system reliability and developer efficiency.
+- Collaborated across engineering and business teams to define technical requirements, document specifications, and ensure
+that automation solutions addressed real operational needs precisely and durably.
+
 
 ---
 
 ### Software Developer
 **Dornica Company, Iran** &nbsp;`Jan 2018 – Jun 2020`
 
-- Built and maintained backend features in **Python, PHP & JavaScript** across production environments
-- Designed and automated **cron-based background processes** with full execution monitoring
-- Worked in structured engineering environment with version control, code review and iterative delivery
+- Built and maintained backend features in Python, PHP, and JavaScript, developing strong foundational skills in
+distributed systems, REST API integration, and reliable data handling across production environments.
+- Designed and automated scheduled background processes (cron jobs), monitoring execution for correctness, completeness,
+and performance , a systematic approach to operational reliability in automated workflows.
+- Collaborated in a structured engineering environment with version control, code review, and iterative delivery practices.
 
 ---
 
