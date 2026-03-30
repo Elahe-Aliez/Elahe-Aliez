@@ -30,7 +30,7 @@ Currently completing my **M.Sc. in AI Engineering** at the University of Passau 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### 🤖 AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
