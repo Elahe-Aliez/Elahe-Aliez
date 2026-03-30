@@ -6,7 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-elahe--alinezhad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elahe-alinezhad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-elahe--alinezhad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elahe-alinezhad-734815201/)
 [![Email](https://img.shields.io/badge/Email-ela.alinezhad%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ela.alinezhad@gmail.com)
 [![Location](https://img.shields.io/badge/Passau-Germany-6D28D9?style=for-the-badge)](#)
 
