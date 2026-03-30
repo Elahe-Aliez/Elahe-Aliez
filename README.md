@@ -1,17 +1,14 @@
-<!-- Header -->
 <div align="center">
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3000&pause=2000&color=A78BFA&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B+I'm+Elahe+Alinezhad" alt="Hi, I'm Elahe Alinezhad" />
-</h1>
+<h1>Hi 👋 I'm Elahe Alinezhad</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=1000&color=C4B5FD&center=true&vCenter=true&multiline=false&width=750&lines=Automation+Engineer+%7C+AI+%26+LLM+Pipeline+Developer+%7C+Developer+Tooling;Building+AI+pipelines+that+make+engineers+faster+%F0%9F%9A%80;LLM+evaluation+%26+benchmarking+at+scale+%F0%9F%A7%AA;5%2B+years+in+production+automation+systems+%E2%9A%99%EF%B8%8F;M.Sc.+AI+Engineering+%40+University+of+Passau+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=1000&color=C4B5FD&center=true&vCenter=true&width=750&lines=Automation+Engineer+%7C+AI+%26+LLM+Pipelines+%7C+Developer+Tooling;5%2B+years+building+production+automation+systems;M.Sc.+AI+Engineering+%40+University+of+Passau" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-elahe--alinezhad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elahe-alinezhad)
 [![Email](https://img.shields.io/badge/Email-ela.alinezhad%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ela.alinezhad@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Passau-Germany-6D28D9?style=for-the-badge&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Passau-Germany-6D28D9?style=for-the-badge)](#)
 
 </div>
 
@@ -21,7 +18,7 @@
 
 I'm a **Software Engineer & AI Specialist** with **5+ years of professional experience** building automation systems, data pipelines, and developer-facing tooling in production environments.
 
-> *"I build systems that make other engineers faster and more effective — combining deep Python engineering with modern AI/LLM expertise to push the boundaries of what workflow automation can mean in practice."*
+I build systems that make other engineers faster and more effective — combining deep Python engineering with modern AI/LLM expertise to push the boundaries of what workflow automation can mean in practice.
 
 Currently completing my **M.Sc. in AI Engineering** at the University of Passau 🇩🇪, with a thesis focused on automated LLM evaluation pipelines and statistical model behaviour testing at scale.
 
@@ -71,55 +68,40 @@ elahe = {
 
 ## 💼 Professional Experience
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🔬 Automation Engineer & AI Systems Developer
-**DeepWrite Project — University of Passau** `2022 – 2025`
+**DeepWrite Project — University of Passau, Germany** &nbsp;`Jun 2022 – Nov 2025`
 
-- Built **end-to-end LLM automation frameworks** from prompt engineering through output validation
-- Implemented **FastAPI data pipelines** with REST integrations, robust error handling & retry logic
-- Developed **AI agents** replacing manual evaluation workflows, boosting throughput & consistency
-- Resolved performance bottlenecks across the full automation stack
+- Built **end-to-end LLM automation frameworks** from prompt engineering through output validation and quality monitoring
+- Implemented **FastAPI data pipelines** integrating multiple external services via REST APIs with robust error handling & retry logic
+- Developed **AI-driven agents** that replaced manual evaluation workflows, measurably improving consistency and throughput
+- Resolved performance bottlenecks across the full automation stack by refactoring queries and optimising API flows
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### 🧪 Technical Project Lead & QA Engineering Owner
-**Dornica Company, Iran** `2020 – 2021`
+**Dornica Company, Iran** &nbsp;`Jul 2020 – Oct 2021`
 
-- Owned **end-to-end software QA**: test plans, regression testing, edge-case analysis
-- Automated repetitive engineering workflows across dev and deployment processes
-- Tracked production KPIs via **SQL-based monitoring** and drove data-informed improvements
+- Owned **end-to-end software QA**: structured test plans, regression testing, and systematic edge-case analysis
+- Automated repetitive engineering workflows across development and deployment, improving delivery reliability
+- Tracked production KPIs via **SQL-based monitoring** and drove data-informed improvements to system reliability
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
 ### 💻 Software Developer
-**Dornica Company, Iran** `2018 – 2020`
+**Dornica Company, Iran** &nbsp;`Jan 2018 – Jun 2020`
 
-- Built backend features in **Python, PHP & JavaScript** across production environments
+- Built and maintained backend features in **Python, PHP & JavaScript** across production environments
 - Designed and automated **cron-based background processes** with full execution monitoring
-- Worked in structured engineering environment with version control & code review
+- Worked in structured engineering environment with version control, code review and iterative delivery
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### 🎓 Education
 
-**M.Sc. Artificial Intelligence Engineering**
-University of Passau, Germany `2022 – 2026`
-*Thesis: Evaluating Grading Behavior & Bias in LLMs*
+**M.Sc. Artificial Intelligence Engineering** — University of Passau, Germany &nbsp;`2022 – 2026`
+Thesis: *Evaluating Grading Behavior & Bias in Large Language Models* — automated evaluation pipelines, statistical hypothesis testing, reproducible LLM benchmarking
 
-**B.Sc. Information Technology**
-Mazandaran University of Science & Technology `2013 – 2017`
-
-</td>
-</tr>
-</table>
+**B.Sc. Information Technology** — Mazandaran University of Science & Technology, Iran &nbsp;`2013 – 2017`
 
 ---
 
@@ -127,13 +109,9 @@ Mazandaran University of Science & Technology `2013 – 2017`
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Elahe-Aliez&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true" />
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elahe-Aliez&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elahe-Aliez&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/Elahe-Aliez)
 
-</div>
-
-<div align="center">
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elahe-Aliez&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true)](https://github.com/Elahe-Aliez)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Elahe-Aliez&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
 
@@ -161,7 +139,7 @@ Mazandaran University of Science & Technology `2013 – 2017`
 
 <div align="center">
 
-*"Systems that make other engineers faster and more effective."*
+**"Systems that make other engineers faster and more effective."**
 
 ![](https://img.shields.io/badge/-%E2%80%83-6D28D9?style=flat&labelColor=6D28D9)
 ![](https://img.shields.io/badge/-%E2%80%83-7C3AED?style=flat&labelColor=7C3AED)
