@@ -14,7 +14,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I'm a **Software Engineer & AI Specialist** with **5+ years of professional experience** building automation systems, data pipelines, and developer-facing tooling in production environments.
 
@@ -22,16 +22,11 @@ I build systems that make other engineers faster and more effective — combinin
 
 Currently completing my **M.Sc. in AI Engineering** at the University of Passau 🇩🇪, with a thesis focused on automated LLM evaluation pipelines and statistical model behaviour testing at scale.
 
-```python
-elahe = {
-  "role":    "Software Engineer & AI Specialist",
-  "focus":   ["LLM Pipelines", "Automation", "Developer Tooling"],
-  "stack":   ["Python", "FastAPI", "PyTorch", "Docker", "SQL"],
-  "thesis":  "LLM evaluation & bias benchmarking @ Uni Passau",
-  "ask_me":  ["LLM eval", "data pipelines", "automation design"],
-  "fact":    "I build systems that test other AI systems 🤖"
-}
-```
+- **Focus:** LLM Pipelines · Automation Engineering · Developer Tooling · CI/CD
+- **Thesis:** Evaluating grading behavior & bias in Large Language Models
+- **Ask me about:** LLM evaluation, FastAPI, data pipeline design, automation frameworks
+- **Languages:** English (C2) · German (C1) · Persian (Native)
+- **Fun fact:** I build systems that test other AI systems
 
 ---
 
@@ -67,9 +62,9 @@ elahe = {
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-### 🔬 Automation Engineer & AI Systems Developer
+### Automation Engineer & AI Systems Developer
 **DeepWrite Project — University of Passau, Germany** &nbsp;`Jun 2022 – Nov 2025`
 
 - Built **end-to-end LLM automation frameworks** from prompt engineering through output validation and quality monitoring
@@ -79,7 +74,7 @@ elahe = {
 
 ---
 
-### 🧪 Technical Project Lead & QA Engineering Owner
+### Technical Project Lead & QA Engineering Owner
 **Dornica Company, Iran** &nbsp;`Jul 2020 – Oct 2021`
 
 - Owned **end-to-end software QA**: structured test plans, regression testing, and systematic edge-case analysis
@@ -88,7 +83,7 @@ elahe = {
 
 ---
 
-### 💻 Software Developer
+### Software Developer
 **Dornica Company, Iran** &nbsp;`Jan 2018 – Jun 2020`
 
 - Built and maintained backend features in **Python, PHP & JavaScript** across production environments
@@ -97,7 +92,7 @@ elahe = {
 
 ---
 
-### 🎓 Education
+### Education
 
 **M.Sc. Artificial Intelligence Engineering** — University of Passau, Germany &nbsp;`2022 – 2026`
 Thesis: *Evaluating Grading Behavior & Bias in Large Language Models* — automated evaluation pipelines, statistical hypothesis testing, reproducible LLM benchmarking
@@ -106,7 +101,7 @@ Thesis: *Evaluating Grading Behavior & Bias in Large Language Models* — automa
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -120,21 +115,11 @@ Thesis: *Evaluating Grading Behavior & Bias in Large Language Models* — automa
 
 ---
 
-## 🌍 Languages
+## Currently Working On
 
-| Language | Level |
-|----------|-------|
-| 🇬🇧 English | C2 — Fluent |
-| 🇩🇪 German | C1 — Advanced Professional |
-| 🇮🇷 Persian | Native |
-
----
-
-## 🎯 Currently Working On
-
-- 📝 **Master's Thesis** — Automated LLM evaluation pipelines with statistical hypothesis testing
-- 🤖 Exploring **agentic AI systems** for developer workflow automation
-- ☁️ Deepening expertise in **AWS & Azure** for scalable AI deployments
+- **Master's Thesis** — Automated LLM evaluation pipelines with statistical hypothesis testing
+- Exploring **agentic AI systems** for developer workflow automation
+- Deepening expertise in **AWS & Azure** for scalable AI deployments
 
 ---
 
