@@ -25,7 +25,7 @@ Currently completing my **M.Sc. in AI Engineering** at the University of Passau 
 - **Focus:** LLM Pipelines · Automation Engineering · Developer Tooling · CI/CD
 - **Thesis:** Evaluating grading behavior & bias in Large Language Models
 - **Ask me about:** LLM evaluation, FastAPI, data pipeline design, automation frameworks
-- **Languages:** English (C2) · German (C1) · Persian (Native)
+- **Languages:** English (C2) · German (B2) · Persian (Native)
 - **Fun fact:** I build systems that test other AI systems
 
 ---
