@@ -1,155 +1,61 @@
 <div align="center">
 
-<h1>Hi 👋 I'm Elahe Alinezhad</h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=1000&color=C4B5FD&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+AI+Systems+%7C+LLM+Pipelines;5%2B+years+building+production+AI+systems;Automation+Engineer+%7C+Developer+Tooling+%7C+CI%2FCD;M.Sc.+AI+Engineering+%40+University+of+Passau;Building+AI+agents+that+automate+real+workflows;LLM+Evaluation+%7C+Statistical+Testing+%7C+Benchmarking;FastAPI+%7C+Python+%7C+Docker+%7C+AWS+%7C+Azure;I+build+systems+that+test+other+AI+systems;Full-Stack+Developer+with+a+passion+for+clean+architecture;Turning+complex+requirements+into+scalable+software;Backend+Engineer+%7C+REST+APIs+%7C+Microservices;From+CRM+systems+to+AI+pipelines+%E2%80%94+end+to+end;Writing+code+that+ships+and+systems+that+scale;Software+Developer+%7C+Problem+Solver+%7C+Continuous+Learner" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=1000&color=C4B5FD&center=true&vCenter=true&width=750&lines=Automation+Engineer+%7C+AI+%26+LLM+Pipelines+%7C+Developer+Tooling;5%2B+years+building+production+automation+systems;M.Sc.+AI+Engineering+%40+University+of+Passau" alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-elahe--alinezhad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elahe-alinezhad-734815201/)
-[![Email](https://img.shields.io/badge/Email-ela.alinezhad%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ela.alinezhad@gmail.com)
-[![Location](https://img.shields.io/badge/Passau-Germany-6D28D9?style=for-the-badge)](#)
 
 </div>
 
----
+## Tech Stack
 
-## About Me
-
-I'm a **Software Engineer & AI Specialist** with **5+ years of professional experience** building automation systems, data pipelines, and developer-facing tooling in production environments.
-
-I build systems that make other engineers faster and more effective, combining full-stack engineering with modern AI/LLM expertise to push the boundaries of what workflow automation can mean in practice.
-
-Currently completing my **M.Sc. in AI Engineering** at the University of Passau 🇩🇪, with a thesis focused on automated LLM evaluation pipelines and statistical model behaviour testing at scale.
-
-- **Focus:** LLM Pipelines · Automation Engineering · Developer Tooling · CI/CD
-- **Thesis:** Evaluating grading behavior & bias in Large Language Models
-- **Ask me about:** LLM evaluation, FastAPI, data pipeline design, automation frameworks
-- **Languages:** English (C2) · German (B2) · Persian (Native)
-- **Fun fact:** I build systems that test other AI systems
-
----
-
-## 🛠️ Tech Stack
-
-### 🤖 AI & Machine Learning
+### AI & LLMs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/Open_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic%2FClaude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7A42F4?style=for-the-badge&logo=llama&logoColor=white)
 
-### ⚙️ Backend & Automation
+### Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🗄️ Databases
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🔧 DevOps & Tools
+### Data & Automation
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Tooling & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## Professional Experience
-
-### Automation Engineer & AI Systems Developer
-**DeepWrite Project — University of Passau, Germany** &nbsp;`Jun 2022 – Nov 2025`
-
-- Designed and built end-to-end automation frameworks integrating AI and LLM-driven components , architecting the
-pipeline from prompt engineering and API integration through automated output validation, structured data storage,
-and continuous quality monitoring across a live production system.
-- Implemented automated data pipeline workflows using Python and FastAPI, integrating multiple external services via
-REST APIs with clean contracts, robust validation, and production-grade error handling and retry logic.
-- Developed AI-driven agents that automated previously manual evaluation and processing workflows end-to-end, reducing
-human effort and measurably improving consistency and throughput for engineering and academic users.
-- Applied LLM and GenAI approaches to automate document processing and structured content extraction, evaluating
-model outputs systematically and iterating on pipeline design based on quality and performance data.
-- Maintained version-controlled codebases in Git across the full development lifecycle, enforcing clean integration practices
-and contributing to code review, documentation, and shared engineering standards within the team.
-- Identified and resolved performance bottlenecks across the automation stack , refactoring database queries, optimising
-API integration flows, and removing redundant processing to measurably improve end-to-end pipeline throughput.
-
----
-
-### Technical Project Lead & QA Engineering Owner
-**Dornica Company, Iran** &nbsp;`Jul 2020 – Oct 2021`
-
-- Owned software quality assurance end-to-end: designed and executed structured test plans, conducted regression and
-edge-case coverage, and systematically identified and documented failure modes , applying engineering rigour to quality
-processes across multiple product areas.
-- Drove automation of repetitive engineering workflows across development and deployment processes, reducing manual
-steps and improving delivery reliability and team velocity.
-- Tracked and analysed production system behaviour through SQL-based KPI monitoring, identifying performance issues
-early and driving data-informed improvements to system reliability and developer efficiency.
-- Collaborated across engineering and business teams to define technical requirements, document specifications, and ensure
-that automation solutions addressed real operational needs precisely and durably.
-
-
----
-
-### Software Developer
-**Dornica Company, Iran** &nbsp;`Jan 2018 – Jun 2020`
-
-- Built and maintained backend features in Python, PHP, and JavaScript, developing strong foundational skills in
-distributed systems, REST API integration, and reliable data handling across production environments.
-- Designed and automated scheduled background processes (cron jobs), monitoring execution for correctness, completeness,
-and performance , a systematic approach to operational reliability in automated workflows.
-- Collaborated in a structured engineering environment with version control, code review, and iterative delivery practices.
-
----
-
-### Education
-
-**M.Sc. Artificial Intelligence Engineering** — University of Passau, Germany &nbsp;`2022 – 2026`
-Thesis: *Evaluating Grading Behavior & Bias in Large Language Models* — automated evaluation pipelines, statistical hypothesis testing, reproducible LLM benchmarking
-
-**B.Sc. Information Technology** — Mazandaran University of Science & Technology, Iran &nbsp;`2013 – 2017`
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Elahe-Aliez&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Elahe-Aliez&theme=react-dark&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&hide_border=true" width="80%" alt="Activity Graph" />
-
-</div>
-
----
-
-## Currently Working On
-
-- **Master's Thesis**: Automated LLM evaluation pipelines with statistical hypothesis testing
-- Exploring **agentic AI systems** for developer workflow automation
-- Deepening expertise in **AWS & Azure** for scalable AI deployments
-
----
-
-<div align="center">
-
-**"Systems that make other engineers faster and more effective."**
-
-![](https://img.shields.io/badge/-%E2%80%83-6D28D9?style=flat&labelColor=6D28D9)
-![](https://img.shields.io/badge/-%E2%80%83-7C3AED?style=flat&labelColor=7C3AED)
-![](https://img.shields.io/badge/-%E2%80%83-8B5CF6?style=flat&labelColor=8B5CF6)
-![](https://img.shields.io/badge/-%E2%80%83-A78BFA?style=flat&labelColor=A78BFA)
-![](https://img.shields.io/badge/-%E2%80%83-C4B5FD?style=flat&labelColor=C4B5FD)
-
-</div>
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
